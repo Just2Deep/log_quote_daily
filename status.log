@@ -1,3 +1,6 @@
 2023-04-14 10:50:17,578 - __main__ - INFO - Token value: Token not available!
 2023-04-14 10:50:19,324 - __main__ - INFO - Temperature in India is: 36.28
 2023-04-14 10:50:19,324 - __main__ - INFO - Weather is: broken clouds
+2023-04-14 09:31:02,235 - __main__ - INFO - Token value: 2341
+2023-04-14 09:31:02,925 - __main__ - INFO - Temperature in India is: 38.32 °C
+2023-04-14 09:31:02,925 - __main__ - INFO - Weather is: overcast clouds
