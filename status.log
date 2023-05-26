@@ -125,3 +125,6 @@
 2023-05-25 09:16:17,292 - __main__ - INFO - Token value: 2341
 2023-05-25 09:16:17,494 - __main__ - INFO - Temperature in India is: 39.46 °C
 2023-05-25 09:16:17,494 - __main__ - INFO - Weather is: clear sky
+2023-05-26 09:16:10,676 - __main__ - INFO - Token value: 2341
+2023-05-26 09:16:11,642 - __main__ - INFO - Temperature in India is: 38.95 °C
+2023-05-26 09:16:11,642 - __main__ - INFO - Weather is: clear sky
