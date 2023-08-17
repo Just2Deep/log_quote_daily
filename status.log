@@ -135,3 +135,6 @@
 2023-08-16 09:15:23,799 - __main__ - INFO - Token value: 2341
 2023-08-16 09:15:24,401 - __main__ - INFO - Temperature in India is: 29.71 °C
 2023-08-16 09:15:24,401 - __main__ - INFO - Weather is: broken clouds
+2023-08-17 09:15:01,595 - __main__ - INFO - Token value: 2341
+2023-08-17 09:15:02,280 - __main__ - INFO - Temperature in India is: 27.83 °C
+2023-08-17 09:15:02,280 - __main__ - INFO - Weather is: overcast clouds
