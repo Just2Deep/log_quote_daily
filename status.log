@@ -148,3 +148,6 @@
 2023-09-20 09:16:19,578 - __main__ - INFO - Token value: 2341
 2023-09-20 09:16:19,893 - __main__ - INFO - Temperature in India is: 31.56 °C
 2023-09-20 09:16:19,893 - __main__ - INFO - Weather is: scattered clouds
+2023-09-21 09:16:50,664 - __main__ - INFO - Token value: 2341
+2023-09-21 09:16:51,164 - __main__ - INFO - Temperature in India is: 29.58 °C
+2023-09-21 09:16:51,164 - __main__ - INFO - Weather is: heavy intensity rain
