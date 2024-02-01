@@ -547,3 +547,6 @@
 2024-01-31 09:15:45,130 - __main__ - INFO - Token value: 2341
 2024-01-31 09:15:46,055 - __main__ - INFO - Temperature in India is: 29.84 °C
 2024-01-31 09:15:46,055 - __main__ - INFO - Weather is: broken clouds
+2024-02-01 09:17:25,921 - __main__ - INFO - Token value: 2341
+2024-02-01 09:17:26,669 - __main__ - INFO - Temperature in India is: 28.96 °C
+2024-02-01 09:17:26,669 - __main__ - INFO - Weather is: clear sky
