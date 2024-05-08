@@ -836,3 +836,6 @@
 2024-05-07 09:19:43,859 - __main__ - INFO - Token value: 2341
 2024-05-07 09:19:44,300 - __main__ - INFO - Temperature in India is: 40.05 °C
 2024-05-07 09:19:44,300 - __main__ - INFO - Weather is: clear sky
+2024-05-08 09:17:50,777 - __main__ - INFO - Token value: 2341
+2024-05-08 09:17:51,277 - __main__ - INFO - Temperature in India is: 38.6 °C
+2024-05-08 09:17:51,277 - __main__ - INFO - Weather is: clear sky
