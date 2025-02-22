@@ -24,7 +24,7 @@ except KeyError:
     # raise
 
 
-if __name__ == "__main__":
+def log_city_weather():
     logger.info(f"Token value: {SOME_SECRET}")
 
     r = requests.get(
@@ -36,3 +36,24 @@ if __name__ == "__main__":
         weather = data["weather"]["description"]
         logger.info(f"Temperature in Bengaluru is: {temperature} °C")
         logger.info(f"Weather is: {weather}")
+
+
+def log_random_quote():
+
+    r = requests.get("https://parks-and-rec-api.frozencoast05.workers.dev/quote/random")
+
+    if r.status_code == 200:
+        data = r.json()
+        character = data["character"]
+        quote = data["quote"]
+        logger.info("Quote for today")
+        logger.info(f"{quote} - {character}")
+
+
+def main():
+    log_city_weather()
+    log_random_quote()
+
+
+if __name__ == "__main__":
+    main()
